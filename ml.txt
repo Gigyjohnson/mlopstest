@@ -1,1 +1,2 @@
 select*from database
+select * from database2
